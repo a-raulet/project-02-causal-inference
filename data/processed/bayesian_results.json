@@ -1,0 +1,41 @@
+{
+  "conversion": {
+    "mens_email": {
+      "rate_mean": 0.012588842363737418,
+      "rate_hdi_low": 0.01111209624384507,
+      "rate_hdi_high": 0.013978165354232401,
+      "lift_vs_control": 1.1982835813447854,
+      "p_beats_control": 1.0
+    },
+    "womens_email": {
+      "rate_mean": 0.008884161493487223,
+      "rate_hdi_low": 0.007733108928248332,
+      "rate_hdi_high": 0.01007082301696351,
+      "lift_vs_control": 0.5514187195905383,
+      "p_beats_control": 0.999625
+    },
+    "control": {
+      "rate_mean": 0.005773915606972522,
+      "rate_hdi_low": 0.004798518698555731,
+      "rate_hdi_high": 0.006752980488870483
+    },
+    "comparisons": {
+      "p_mens_beats_womens": 0.999875,
+      "p_mens_best": 0.999875,
+      "p_womens_best": 0.000125
+    }
+  },
+  "spend": {
+    "mens_email": {
+      "mean": 1.4219630492542135,
+      "lift": 1.5406945581917564
+    },
+    "womens_email": {
+      "mean": 1.0743893569342322,
+      "lift": 0.8749403583982256
+    },
+    "control": {
+      "mean": 0.6521114841938781
+    }
+  }
+}

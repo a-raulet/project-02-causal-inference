@@ -1,0 +1,25 @@
+{
+  "optimal_distribution": {
+    "Mens E-Mail": 44143,
+    "Womens E-Mail": 18737,
+    "No E-Mail": 1120
+  },
+  "current_distribution": {
+    "Womens E-Mail": 21387,
+    "Mens E-Mail": 21307,
+    "No E-Mail": 21306
+  },
+  "match_rate": 0.333,
+  "conversion_matched": 0.0190503003003003,
+  "conversion_unmatched": 0.004029235382308846,
+  "cate_stats": {
+    "mens_email": {
+      "mean": 0.00673448663975914,
+      "std": 0.00788512464697164
+    },
+    "womens_email": {
+      "mean": 0.0032523402753126384,
+      "std": 0.009115557134275384
+    }
+  }
+}

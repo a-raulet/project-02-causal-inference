@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# Poetry
+poetry.lock
+
+# Keep models and figures (needed for deployment)
+# !models/
+# !reports/figures/
