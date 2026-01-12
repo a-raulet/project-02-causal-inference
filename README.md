@@ -2,6 +2,8 @@
 
 A causal inference platform for A/B testing analysis using Bayesian methods and machine learning. Analyzes the Hillstrom email marketing dataset to estimate treatment effects and recommend optimal targeting strategies.
 
+The Streamlit dashboard is available [here](https://causal-inference-platform.streamlit.app/).
+
 ## Overview
 
 This project demonstrates a complete causal inference pipeline:
